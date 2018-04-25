@@ -32,7 +32,7 @@ Understanding PLSS
 These two links help explain the Public Land Survey System:
 
 * `PLSS <https://nationalmap.gov/small_scale/a_plss.html>`_ article on U.S. Geological Survery Site.
-* `Understanding the Public Land Survey System <https://www.youtube.com/watch?v=ZIRamhEx3Rc>`_ on youtube
+* `Understanding the Public Land Survey System <https://www.youtube.com/watch?v=ZIRamhEx3Rc>`_ youtube video
 * `Tutorial on PLSS Descriptions <https://dnr.wi.gov/topic/forestmanagement/documents/plsstutorial.pdf>`_ from Wisconsin Department of Natural Resources 
 
 How Civil War Draft worked in Indiana
@@ -77,7 +77,6 @@ Books:
 
 #. **Germans to America: Lists of Passengers Arriving at US Ports 1850-1897.** Edited by Ira A. Glazier and P. William Filby
 #. **German Immigrants: Lists of Passengers Bound from Bremen to New York with Places of Origin**; compiled by Gary J. Zimmerman and Marion Wolfert; (Baltimore: Genealogical Publishing Co. 1985-1992.) 
-#. `Courthouse Research for Family Historians: Your Guide to Genealogical Treasures 1St Edition Edition by Christine Rose <https://www.amazon.com/Courthouse-Research-Family-Historians-Genealogical/dp/0929626168/ref=sr_1_1?ie=UTF8&qid=1498402699&sr=8-1&keywords=courthouse+research+records+in+books>`_ 
 
 Emigration from Germany
 -----------------------
