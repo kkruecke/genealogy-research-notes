@@ -4,6 +4,11 @@
 Resources
 =========
 
+Pathfinders Tab at geneaologycenter.org
+---------------------------------------
+
+Has links to Allen County Resources and tons of helpful links to get you started.
+
 Undestanding Land Records and Deeds
 -----------------------------------
 
