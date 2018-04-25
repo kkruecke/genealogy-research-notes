@@ -12,21 +12,20 @@ Has links to Allen County Resources and tons of helpful links to get you started
 Undestanding Land Records and Deeds
 -----------------------------------
 
-On the Familysearch.org wiki, there is a whole page with explanations of `U.S. Land Records Class <https://www.familysearch.org/wiki/en/U.S._Land_Records_Class_Handout>`_.
-
-At `Land Record Reference <http://www.directlinesoftware.com/land_record_reference>`_, under **Land Transaction Records. How they work and where they are** are instructional articles on Land Records with titles Tracing Ancestors using Deed
-Records, Types of Deed Books, How to Get Copies of Land Records. etc. 
+* `U.S. Land Records Class <https://www.familysearch.org/wiki/en/U.S._Land_Records_Class_Handout>`_\ |mdash|\ Familysearch wiki page with various topics on the gamet of land records.
+* `Land Record Reference <http://www.directlinesoftware.com/land_record_reference>`_\ |mdash|\ under **Land Transaction Records. How they work and where they are** lists instructional articles on  Tracing Ancestors using Deed Records, Types of Deed Books, How to Get
+  Copies of Land Records. etc. 
 
 .. _allen-county-deed-search-online:
 
 Allen County Deeds
 ------------------
 
-The Deed index books can be search online at `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_. Sign in as Guest. There are three columns for Section, Township, and Range, which are on the right side of the right-hand page. If you know from a Plat map, the Section and
-range, you can use these three columns, I believe, for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
+`INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
+the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
 
-ACGSI's Townships of Allen County, Indiana `table page <https://www.acgsi.org/maps/township.php>`_ shows Allen County township designations as determined by the Public Land Survey System. As is stated in the first paragraphs, "These designations often appear in land
-records and are stated in relation to the Second Principal Meridian."
+`Townships of Allen County <https://www.acgsi.org/maps/township.php>`_ on the ACGSI website shows Allen County township designations as determined by the Public Land Survey System. As it states: "These designations often appear in land records and are stated in
+relation to the Second Principal Meridian."
 
 Understanding PLSS 
 ~~~~~~~~~~~~~~~~~~
