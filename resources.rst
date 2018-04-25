@@ -21,20 +21,19 @@ Undestanding Land Records and Deeds
 Allen County Deeds
 ------------------
 
-`INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
-the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
-
-`Townships of Allen County <https://www.acgsi.org/maps/township.php>`_ on the ACGSI website shows Allen County township designations as determined by the Public Land Survey System. As it states: "These designations often appear in land records and are stated in
-relation to the Second Principal Meridian."
+* `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
+  the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
+* `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_ on the ACGSI website shows Allen County township designations as determined by the Public Land Survey System. As it states: "These designations often appear in land records and are stated in
+  relation to the Second Principal Meridian."
 
 Understanding PLSS 
 ~~~~~~~~~~~~~~~~~~
 
 These two links help explain the Public Land Survey System:
 
-* USGS article on `PLSS <https://nationalmap.gov/small_scale/a_plss.html>`_
-* Youtube vidoe on `Understanding the Public Land Survey System <https://www.youtube.com/watch?v=ZIRamhEx3Rc>`_
-* Wisconsin Department of Natural Resources `Tutorial on PLSS Descriptions <https://dnr.wi.gov/topic/forestmanagement/documents/plsstutorial.pdf>`_
+* `PLSS <https://nationalmap.gov/small_scale/a_plss.html>`_ article on U.S. Geological Survery Site.
+* `Understanding the Public Land Survey System <https://www.youtube.com/watch?v=ZIRamhEx3Rc>`_ on youtube
+* `Tutorial on PLSS Descriptions <https://dnr.wi.gov/topic/forestmanagement/documents/plsstutorial.pdf>`_ from Wisconsin Department of Natural Resources 
 
 How Civil War Draft worked in Indiana
 -------------------------------------
