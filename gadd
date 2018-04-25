@@ -1,1 +1,1 @@
-rm -rf _buildd && gadd 'updates'
+rm -rf ./_build && gadd 'updates'
