@@ -7,10 +7,10 @@ Resources
 Undestanding Land Records and Deeds
 -----------------------------------
 
+On the Familysearch.org wiki, there is a whole page with explanations of `U.S. Land Records Class <https://www.familysearch.org/wiki/en/U.S._Land_Records_Class_Handout>`_.
+
 The subsection titled **Land Transaction Records. How they work, and where they are** at `Land Record Reference <http://www.directlinesoftware.com/land_record_reference>`_ has explanatory articles on Land Records with titles Tracing Ancestors using Deed
 Records, Types of Deed Books, How to Get Copies of Land Records. etc. 
-
-On the Familysearch.org wiki, there is a whole page with explanations of `U.S. Land Records Class <https://www.familysearch.org/wiki/en/U.S._Land_Records_Class_Handout>`_.
 
 .. _allen-county-deed-search-online:
 
