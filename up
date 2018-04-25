@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+rm -rf _build ./gen-research.tar.gz
+make html
+cd _build/html
+tar -czvf ../../gen-research.tar.gz  ./*
+cd ../..
+sshpass -pkk0457 scp ./gen-research.tar.gz kurt@66.172.33.113:~/
+rm -rf _build ./gen-research.tar.gz
+sshpass -pkk0457 ssh kurt@66.172.33.113 
