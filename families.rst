@@ -23,7 +23,7 @@ See :ref:`allen-county-deed-search-online` to search Deed Indexes for Allen Coun
 
 The `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_ gives the Allen county township PLSS designations used in Land Records and shows Adams Township is **30 North, Range 11 East**. Since I believe Johann Jacob Peppler settled in section 36 (of 
 Adams Township, as the 1860 Census shows), where the 1860 Plat Map of Adams townships shows a **J.P.** residing (which is near or adjacent to a Bender property), we know when searching the `Allen County Deeds index online <https://indiana-countyrecorders-records.com/User/Login.aspx?ReturnUrl=%2f>`_
-for, say, the years between 1851 and 1860, the **J.P.** property would be recorded as in **Section 36, Township 30, Range 14**, or simply as **\|36\|30\|13\|** in the Section, Township, Range columns of the deed index(which are among the right-most columns on the
+for, say, the years between 1851 and 1859, the **J.P.** property would be recorded as in **Section 36, Township 30, Range 14**, or simply as **\|36\|30\|13\|** in the Section, Township, Range columns of the deed index(which are among the right-most columns on the
 second page). And searching the Section, Township, and Range columns is much faster when trying find to find an ancestor's name.
 
 Georg Andreas Peppler(1851–1857)
