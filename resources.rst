@@ -23,9 +23,36 @@ Allen County Deeds
 
 * `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
   the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
-* `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_ on the ACGSI website shows Allen County township designations as determined by the Public Land Survey System. As it states: "These designations often appear in land records and are stated in
-  relation to the Second Principal Meridian."
+* `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
 
+    ================================ =============
+    Township Designation (PLSS)	     Township Name
+    ================================ =============
+    Township 29 North, Range 11 East Lafayette
+    Township 29 North, Range 12 East Pleasant
+    Township 29 North, Range 13 East Marion
+    Township 29 North, Range 14 East Madison
+    Township 29 North, Range 15 East Monroe
+    |nbsp|                           |nbsp|
+    Township 30 North, Range 11 East Aboite
+    Township 30 North, Range 12 East Wayne
+    Township 30 North, Range 13 East Adams
+    Township 30 North, Range 14 East Jefferson
+    Township 30 North, Range 15 East Jackson
+    |nbsp|                           |nbsp|
+    Township 31 North, Range 11 East Lake
+    Township 31 North, Range 12 East Washington
+    Township 31 North, Range 13 East St. Joseph
+    Township 31 North, Range 14 East Milan
+    Township 31 North, Range 15 East Maumee
+    |nbsp|                           |nbsp|
+    Township 32 North, Range 11 East Eel River
+    Township 32 North, Range 12 East Perry
+    Township 32 North, Range 13 East Cedar Creek
+    Township 32 North, Range 14 East Springfield
+    Township 32 North, Range 15 East Scipio
+    ================================ =============
+    
 Understanding PLSS 
 ~~~~~~~~~~~~~~~~~~
 
