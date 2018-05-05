@@ -57,6 +57,8 @@ Fritz Behrman
 According to Genny Koenig Morrison's Tree(or an email conversation), "Fritz" arrived in the USA with his family and Heinrich, who is on the same ship with his family, 
 was his nephew. Genny might have indicated that some think Fritz was the father not the uncle. 
 
+.. todo:: Find on 1860 Plat Map of Admas or locate his neighbors.
+
 Heinrich "Henry" Behrman 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 

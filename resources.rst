@@ -54,6 +54,12 @@ Allen County Deeds
     Township 32 North, Range 14 East Springfield
     Township 32 North, Range 15 East Scipio
     ================================ =============
+
+The U.S. Geological Survey websit's article `The Public Land Survey System (PLSS) <https://nationalmap.gov/small_scale/a_plss.html>`_ gives illustrations and explain the meaning of the numbers in the table. It explains:  
+
+    Each township is identified with a township and range designation. Township designations indicate the location north or south of the baseline, and range designations indicate the location east or west of the Principal Meridian. For example, a township might
+    be identified as Township 7 North, Range 2 West, which would mean that it was in the 7th tier of townships north of a baseline, and in the 2nd column of townships west of a principal meridian.  A legal land description of a section includes the State, Principal
+    Meridian name, Township and Range designations with directions, and the section number: Nebraska, Sixth Principal Meridian T7N, R2W, sec5. 
     
 Understanding PLSS 
 ~~~~~~~~~~~~~~~~~~
