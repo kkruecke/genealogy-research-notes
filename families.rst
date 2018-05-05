@@ -26,6 +26,8 @@ Adams Township, as the 1860 Census shows), where the 1860 Plat Map of Adams town
 for, say, the years between 1851 and 1859, the **J.P.** property would be recorded as in **Section 36, Township 30, Range 14**, or simply as **\|36\|30\|13\|** in the Section, Township, Range columns of the deed index(which are among the right-most columns on the
 second page). And searching the Section, Township, and Range columns is much faster when trying find to find an ancestor's name.
 
+.. todo:: Use Allen County GIS viewer to show the deed boundaries of Jacob Peppler on 11 Jun 1857.
+
 Georg Andreas Peppler(1851–1857)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
