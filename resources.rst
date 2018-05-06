@@ -15,14 +15,16 @@ Undestanding Land Records and Deeds
 * `U.S. Land Records Class <https://www.familysearch.org/wiki/en/U.S._Land_Records_Class_Handout>`_\ |mdash|\ Familysearch wiki page with various topics on the gamet of land records.
 * `Land Record Reference <http://www.directlinesoftware.com/land_record_reference>`_\ |mdash|\ under **Land Transaction Records. How they work and where they are** lists instructional articles on  Tracing Ancestors using Deed Records, Types of Deed Books, How to Get
   Copies of Land Records. etc. 
-* `Indiana's Public Land Survey <http://www.howardcountymemory.net/default.aspx?id=12830>`_
+* Historian's short article `Indiana's Public Land Survey <http://www.howardcountymemory.net/default.aspx?id=12830>`_
 * `Defining the Indiana Landscape through the Rectangular Survey System <https://blog.history.in.gov/?tag=townships>`_
 
 .. _allen-county-deed-search-online:
 
-Allen County Deeds
-------------------
+Allen County Land Records
+-------------------------
 
+* List of call numbers for `Plat Maps of Allen County <http://www.genealogycenter.org/Pathfinders/AllenINGuides/PlatMaps.aspx>`_.
+* Allen County Plat Book for 1860 titled **Map of AC, IN from Surveys and Records**, call no. 977.201  AL5SK
 * `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
   the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
 * `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
@@ -121,8 +123,7 @@ Emigration from Germany
 Missouri Synod History
 ----------------------
 
-#. The Zeal of His house; five generations of Lutheran Church-Missouri Synod history (1847-1972), by  Weisheit, Eldon.
-   Call Number: 284.1322 W43Z
+#. The Zeal of His house; five generations of Lutheran Church-Missouri Synod history (1847-1972), by  Weisheit, Eldon.  `Call Number: 284.1322 W43Z < http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm00695821 ">`_
 
 Relevant Churches
 -----------------
