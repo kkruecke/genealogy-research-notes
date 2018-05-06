@@ -79,7 +79,7 @@ as new soldiers into the Army of the United States, was implemented at the count
 On\ |ndash|\ Site Database in Genealogy Center
 ----------------------------------------------
 
-List is the Allen County Public library's Genealogy Center's: `on site databases <http://www.genealogycenter.org/Databases/OnSiteDatabases.aspx>`_, includes:
+Genealogy Center' `on site databases <http://www.genealogycenter.org/Databases/OnSiteDatabases.aspx>`_ includes:
 
 #. ancestry.com
 #. fold3.com
