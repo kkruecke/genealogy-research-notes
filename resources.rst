@@ -24,7 +24,7 @@ Allen County Land Records
 -------------------------
 
 * List of and Call Numbers for `Plat Maps of Allen County <http://www.genealogycenter.org/Pathfinders/AllenINGuides/PlatMaps.aspx>`_.
-* **Map of AC, IN from Surveys and Records**, Allen County Plat Book for 1860, call no. 977.201  AL5SK
+* **Map of AC, IN from Surveys and Records** (Allen County Plat Book for 1860) call no. 977.201  AL5SK
 * `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
   the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
 * `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
