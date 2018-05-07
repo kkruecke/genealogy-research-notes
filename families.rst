@@ -62,6 +62,12 @@ was his nephew. Genny might have indicated that some think Fritz was the father 
 Heinrich "Henry" Behrman 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+Farm Land Location
+++++++++++++++++++
+
+The 1860 census shows Heinrich Behrman ("Bearman" is the spelling in the census, I believe) lives in Adams township, Allen Co., Indiana. The 1860 Plat appears to show a name like "Bearman" in section 25 of Adams township. This can probably be confirmed by comparing
+the surnames of his neighborrs listed in the 1860 census and then examining the plat map more closely with a magnifying glass. Once his farm is located on the plat map of Adams township, the deed will give the date of ownership and exact location within Adams township.
+
 Origin Discrepencies:
 +++++++++++++++++++++
 
@@ -158,6 +164,8 @@ Heinrich Behrman\ |apos|\ s Mother\ |apos|\ s Name
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 On Heinrich "Henry"'s death  certificate his mother is given as Caroline Stuber.
+
+
 
 Frederich Behrman Issues
 ++++++++++++++++++++++++
