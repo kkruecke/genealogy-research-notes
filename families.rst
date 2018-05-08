@@ -15,7 +15,7 @@ supplied the place of burial, and his wife's name, Maria Magdalene Platt.
 The land of "J. P", likely Johann Jacob Peppler, is shown on the **Adams Twp, Allen Co., 1860 Plat Map**. It is locatd in section 36, in the bottom right corner, of the 1860 Plat Map of Adams Township. The Genealogy Center's Pathfinder has a `page dedicated to the 
 list of Allen County Plat map books <http://genealogycenter.org/Pathfinders/AllenINGuides/PlatMaps.aspx>`_ avaiable in the Genealogy Center. The first map is from 1855. The ACGSI also has Allen County Plat maps online at
 
-* `ACGSI 1860 Plat Maps for Allen County <https://www.acgsi.org/maps/1860plat.php>`_
+This `ACGSI 1860 Plat Maps for Allen County <https://www.acgsi.org/maps/1860plat.php>`_ shows "J.P." as the owner. The `June 11, 1857 deed for Jacob Pepler <https://www.ancestry.com/mediaui-viewer/collection/1030/tree/68081704/person/38179109106/media/3577b3f5-3ce0-456a-8948-611099d3904e?_phsrc=Ysx46&usePUBJs=true>`_ shows him to be the owner.
 
 In the 1878 Map of Adams Township, which I believe is a Plat map, that I obtained from the Jenny Morrison Koenig Tree, it shows "J. Pepler" in section 36 of Adams Twp.
 
@@ -25,6 +25,11 @@ The `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_ gives
 Adams Township, as the 1860 Census shows), where the 1860 Plat Map of Adams townships shows a **J.P.** residing (which is near or adjacent to a Bender property), we know when searching the `Allen County Deeds index online <https://indiana-countyrecorders-records.com/User/Login.aspx?ReturnUrl=%2f>`_
 for, say, the years between 1851 and 1859, the **J.P.** property would be recorded as in **Section 36, Township 30, Range 14**, or simply as **\|36\|30\|13\|** in the Section, Township, Range columns of the deed index(which are among the right-most columns on the
 second page). And searching the Section, Township, and Range columns is much faster when trying find to find an ancestor's name.
+
+This pdf of a Plat map from 1860 of Adams township, Allen County, shows "J.P" as the owner of 
+**Map of Allen County, Indiana from Surveys and Records** by R.K. Skinner, published 1860. Call no. `977.201  AL5SK <http://alpl.ent.sirsi.net/client/en_US/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2412890/one?qu=977.201+AL5SK>`_ 
+shows property ownership of all Allen County Townships, and it shows, I think, "J. P.", for Jacob Peppler. Digital version of  `Map of Allen County, Indiana, from surveys & records <https://archive.org/details/mapofallencounty00skin>`_.
+ 
 
 .. todo:: What does "Dwelling House" number mean in the 1860 census of Adams Twp, Allen Co., Indiana?
 
