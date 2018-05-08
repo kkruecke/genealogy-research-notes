@@ -26,9 +26,9 @@ Adams Township, as the 1860 Census shows), where the 1860 Plat Map of Adams town
 for, say, the years between 1851 and 1859, the **J.P.** property would be recorded as in **Section 36, Township 30, Range 14**, or simply as **\|36\|30\|13\|** in the Section, Township, Range columns of the deed index(which are among the right-most columns on the
 second page). And searching the Section, Township, and Range columns is much faster when trying find to find an ancestor's name.
 
-This pdf of a Plat map from 1860 of Adams township, Allen County, shows "J.P" as the owner of 
 **Map of Allen County, Indiana from Surveys and Records** by R.K. Skinner, published 1860. Call no. `977.201  AL5SK <http://alpl.ent.sirsi.net/client/en_US/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2412890/one?qu=977.201+AL5SK>`_ 
-shows property ownership of all Allen County Townships, and it shows, I think, "J. P.", for Jacob Peppler. Digital version of  `Map of Allen County, Indiana, from surveys & records <https://archive.org/details/mapofallencounty00skin>`_.
+shows property ownership of all Allen County Townships, and it shows, I think, "J. P.", for Jacob Peppler. There is an online digital version of `Map of Allen County, Indiana, from surveys & records <https://archive.org/details/mapofallencounty00skin>`_ the is 
+legible when magnified and readable.
  
 
 .. todo:: What does "Dwelling House" number mean in the 1860 census of Adams Twp, Allen Co., Indiana?
@@ -73,6 +73,10 @@ Farm Land Location
 The 1860 census shows Heinrich Behrman ("Bearman" is the spelling in the census, I believe) lives in Adams township, Allen Co., Indiana. The 1860 Plat appears to show a name like "Bearman" in section 25 of Adams township. This can probably be confirmed by comparing
 the surnames of his neighborrs listed in the 1860 census and then examining the plat map more closely with a magnifying glass. Once his farm is located on the plat map of Adams township, the deed will give the date of ownership and exact location within Adams township.
 
+**Map of Allen County, Indiana from Surveys and Records** by R.K. Skinner, published 1860. Call no. `977.201  AL5SK <http://alpl.ent.sirsi.net/client/en_US/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2412890/one?qu=977.201+AL5SK>`_ 
+shows property ownership of all Allen County Townships, and it shows, I think, "J. P.", for Jacob Peppler. There is an online digital version of `Map of Allen County, Indiana, from surveys & records <https://archive.org/details/mapofallencounty00skin>`_ the is 
+legible when magnified and readable.
+ 
 Origin Discrepencies:
 +++++++++++++++++++++
 
