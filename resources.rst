@@ -28,8 +28,9 @@ Allen County Land Records
   The catlogue call no. is `977.201  AL5SK <http://alpl.ent.sirsi.net/client/en_US/default/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:2412890/one?qu=977.201+AL5SK>`_.
 * `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
   the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
-* `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
+* 1860 Plat maps of Allen County Township online `here <https://www.acgsi.org/maps/1860plat.php>`_ at ACGSI website.
 * Using the `Allen County GIS webstie <https://youtu.be/Mm4acnEoW1A>`_
+* `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
 
     ================================ =============
     Township Designation (PLSS)	     Township Name
