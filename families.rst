@@ -51,6 +51,11 @@ At the time of Carl Heinrich Wilhelm Krueckeberg's death, in Dec 1815, and befor
 
 The article `Conscription and Draft in Indiana During the Civil War <https://scholarworks.iu.edu/journals/index.php/imh/article/view/5887/5494>`_ contains good information about how the Civil War draft worked in Indiana.
 
+A 18 Dec 1915 News Sentitnel article mentioning the death of Carl Krueckeberg of Union Twp, Adams Co., says: 
+
+    "...He came to this country when he was 15 years of age, **the family settling in Fort Wayne, where the subject of this sketch was engaged in the tailoring business with his father.** He was married in 1860 and for
+    some time lived in Preble township, going later to Union Township, where he has since lived...."
+
 Behrmann
 --------
 
