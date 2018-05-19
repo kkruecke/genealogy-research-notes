@@ -18,6 +18,17 @@ Undestanding Land Records and Deeds
 * Historian's short article `Indiana's Public Land Survey <http://www.howardcountymemory.net/default.aspx?id=12830>`_
 * `Defining the Indiana Landscape through the Rectangular Survey System <https://blog.history.in.gov/?tag=townships>`_
 
+Using BLM Navigator
+-------------------
+
+Go to `BLM Naviagtor <https://navigator.blm.gov/map>`_ Then -> Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to Map. Also select **Get Lat/Lon from Land Description**. Then choose State of Indina, 2nd Meridian, the Township number, Range number, and
+section number. Then click 'Find Land Description from Location', and it will take you to that section, township and range.
+
+GLO Documents Search
+--------------------
+
+`Bureau of Land Management, General Land Office Records <https://glorecords.blm.gov/search/default.aspx>`_.
+
 .. _allen-county-deed-search-online:
 
 Allen County Land Records
