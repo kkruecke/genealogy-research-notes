@@ -21,7 +21,7 @@ Undestanding Land Records and Deeds
 Using BLM Navigator
 -------------------
 
-After going to `BLM Naviagtor <https://navigator.blm.gov/map>`_, the do -> Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to Map. Also select **Get Lat/Lon from Land Description**. Next, choose State of Indina, 2nd Meridian, the Township number, Range number, and
+After going to `BLM Naviagtor <https://navigator.blm.gov/map>`_, then do -> Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to Map. Also select **Get Lat/Lon from Land Description**. Next, choose State of Indina, 2nd Meridian, the Township number, Range number, and
 section number. Then click 'Find Land Description from Location', and it will take you to that section, township and range.
 
 GLO Documents Search
