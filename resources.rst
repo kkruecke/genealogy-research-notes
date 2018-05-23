@@ -232,7 +232,7 @@ Teva Sheer interview: https://youtu.be/lUn075XIshc
 Special Comments
 ----------------
 
-The userid I used on `db.genalogy.net <https://db.genealogy.net>`_, I think, is **Kurt.krueckeberg** with capital K.
+The userid I used on `db.genalogy.net <https://db.genealogy.net>`_, I think, is **Kurt.krueckeberg** with capital K and password is the complex password.
 
 German Resources
 ++++++++++++++++
