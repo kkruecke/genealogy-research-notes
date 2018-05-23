@@ -240,7 +240,10 @@ German Resources
 Schaumburg-Lippe
 ----------------
 
-The genealogy.net's webpage for `Schaumburg-Lippe <http://www.genealogy.net/reg/NSAC/SLP/index.html#gener>`_ may have migrated to `Genwiki <http://wiki-de.genealogy.net/Hauptseite>`_.
+* The genealogy.net's webpage for `Schaumburg-Lippe <http://www.genealogy.net/reg/NSAC/SLP/index.html#gener>`_ may have migrated to `Genwiki <http://wiki-de.genealogy.net/Hauptseite>`_. It says it is no longer maintained.
+* `Evangelisch-Lutherische Landeskirche Schaumburg-Lippe <http://wiki-de.genealogy.net/Evangelisch-Lutherische_Landeskirche_Schaumburg-Lippe>`_
+* `Landkreis Schaumburg <http://wiki-de.genealogy.net/GOV:Adm_133257>`_
+* `Fürstentum Schaumburg-Lippe <http://wiki-de.genealogy.net/F%C3%BCrstentum_Schaumburg-Lippe>`_
 
 General German Genealogy Websites
 ---------------------------------
