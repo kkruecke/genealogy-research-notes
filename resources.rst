@@ -18,14 +18,18 @@ Undestanding Land Records and Deeds
 * Historian's short article `Indiana's Public Land Survey <http://www.howardcountymemory.net/default.aspx?id=12830>`_
 * `Defining the Indiana Landscape through the Rectangular Survey System <https://blog.history.in.gov/?tag=townships>`_
 
+
 Using BLM Navigator
 -------------------
 
 After going to `BLM Naviagtor <https://navigator.blm.gov/map>`_, then do -> Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to Map. Also select **Get Lat/Lon from Land Description**. Next, choose State of Indina, 2nd Meridian, the Township number, Range number, and
 section number. Then click 'Find Land Description from Location', and it will take you to that section, township and range.
 
+BLM `Land Catalog <https://glorecords.blm.gov/LandCatalog/Catalog>`_ allows you to choose State, Township and Range, and it will display it and all numbered sections of the townships.
+
 GLO Documents Search
 --------------------
+
 
 `Bureau of Land Management, General Land Office Records <https://glorecords.blm.gov/search/default.aspx>`_.
 
@@ -42,6 +46,7 @@ Allen County Land Records
 * 1860 Plat maps of Allen County Township online `here <https://www.acgsi.org/maps/1860plat.php>`_ at ACGSI website.
 * Using the `Allen County GIS webstie <https://youtu.be/Mm4acnEoW1A>`_
 * `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
+* `Family maps of Allen County, Indiana : with homesteads, roads, waterways, towns, cemeteries, railroads, and more <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocn156878566 ">`_ by  Boyd, Gregory A. (Gregory Alan), in Genealogy Center.
 
     ================================ =============
     Township Designation (PLSS)	     Township Name
@@ -76,6 +81,13 @@ The U.S. Geological Survey websit's article `The Public Land Survey System (PLSS
     Each township is identified with a township and range designation. Township designations indicate the location north or south of the baseline, and range designations indicate the location east or west of the Principal Meridian. For example, a township might
     be identified as Township 7 North, Range 2 West, which would mean that it was in the 7th tier of townships north of a baseline, and in the 2nd column of townships west of a principal meridian.  A legal land description of a section includes the State, Principal
     Meridian name, Township and Range designations with directions, and the section number: Nebraska, Sixth Principal Meridian T7N, R2W, sec5. 
+
+Adams County Land Records
+-------------------------
+
+* `Family maps of Adams County, Indiana : with homesteads, roads, waterways, towns, cemeteries, railroads, and more <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm70806657 ">`_ by  Boyd, Gregory A.
+   Boyd, Gregory A., in Genealogy Center of ACPLI.
+
     
 Understanding PLSS 
 ~~~~~~~~~~~~~~~~~~

@@ -56,6 +56,11 @@ A 18 Dec 1915 News Sentitnel article mentioning the death of Carl Krueckeberg of
     "...He came to this country when he was 15 years of age, **the family settling in Fort Wayne, where the subject of this sketch was engaged in the tailoring business with his father.** He was married in 1860 and for
     some time lived in Preble township, going later to Union Township, where he has since lived...."
 
+Land Records, Maps, Deeds
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Family maps of Adams County, Indiana : with homesteads, roads, waterways, towns, cemeteries, railroads, and more <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm70806657 ">`_ by  Boyd, Gregory A., in Geneaology Center.
+
 Behrmann
 --------
 
