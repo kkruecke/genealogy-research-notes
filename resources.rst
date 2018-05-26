@@ -35,7 +35,7 @@ BLM `Land Catalog <https://glorecords.blm.gov/LandCatalog/Catalog>`_ allows you 
 GLO Documents Search
 --------------------
 
-`Bureau of Land Management, General Land Office Records <https://glorecords.blm.gov/search/default.aspx>`_.
+`Bureau of Land Management, General Land Office Records Search page <https://glorecords.blm.gov/search/default.aspx>`_ allows you to search for Land Patents, Surveys, Tract Books, etc.
 
 .. _allen-county-deed-search-online:
 
@@ -91,7 +91,6 @@ Adams County Land Records
 
 * `Family maps of Adams County, Indiana : with homesteads, roads, waterways, towns, cemeteries, railroads, and more <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm70806657 ">`_ by  Boyd, Gregory A.
    Boyd, Gregory A., in Genealogy Center of ACPLI.
-
     
 Understanding PLSS 
 ~~~~~~~~~~~~~~~~~~
@@ -149,6 +148,11 @@ Emigration from Germany
 -----------------------
 
 #. `Deutsche Auswanderer Datebank <http://www.deutsche-auswanderer-datenbank.de/index.php?id=275&L=1>`_.
+
+German Language Newspapers in U.S.
+----------------------------------
+
+* Book `German-American newspapers and periodicals, 1732-1955 : history and bibliography <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm08249015 ">`_ by Arndt, Karl J.R. and Olsen, May E.
 
 Missouri Synod History
 ----------------------
