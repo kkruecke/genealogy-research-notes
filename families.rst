@@ -4,6 +4,12 @@
 Families
 ========
 
+Albersmeier
+-----------
+
+According to a Mary Theis, during a conversation 10/21/2018, Grandma Ruth's grandmother, Hanne Marie Sophie Louise Heine, whose married Friedrich Albersmeier, was brought to Fort Wayne or at least to the United States
+by(I believe Mary said) her brother-in-law, who was some sort of "grocery". He went to Germany and brought them over. 
+
 Peppler
 -------
 
@@ -179,7 +185,6 @@ Heinrich Behrman\ |apos|\ s Mother\ |apos|\ s Name
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
 On Heinrich "Henry"'s death  certificate his mother is given as Caroline Stuber.
-
 
 
 Frederich Behrman Issues

@@ -7,6 +7,22 @@ Resources
 US Resources
 ++++++++++++
 
+County Histories
+----------------
+
+Allen County
+~~~~~~~~~~~~
+
+* History of Fort Wayne & Allen County, Indiana, 1700-2005, by John D. Beaty, et. al 
+
+Adams County
+~~~~~~~~~~~~
+
+* 1979 history of Adams County, Indiana by Heller, Dick D., others
+* A short, short story of Adams county, Indiana by Quinn, French
+* A pictorial history of Adams county, Indiana by Walters, Helen M.
+* Snow's history of Adams County, Indiana by Snow, J. F. (John Fletcher), 1854-1933.
+
 Pathfinders Tab at geneaologycenter.org
 ---------------------------------------
 
@@ -122,6 +138,7 @@ Ship Passenger List Sites
 `Finding Passenger Lists & Immigration Records 1820-1940s. Arrivals at U.S. ports from Europe <http://www.germanroots.com/passengers.html>`_.
 
 Web: 
+~~~~
 
 #. `Ancestry Search Page: New York, Passenger Lists, 1820-1957 <http://search.ancestry.com/search/db.aspx?dbid=7488&cj=1&sid=grpassnymid&netid=cj&o_xid=0000584978&o_lid=0000584978&o_sch=Affiliate+External>`_
 #. `Castle Garden <http://www.castlegarden.org/searcher.php>`_  passenger list transcriptions. 
@@ -133,6 +150,7 @@ Web:
    Bremen Departure lists from before 1920 no longer exist. They were destroyed in WWII.
 
 Results of above searches on Familysearch using www.stevemorse.net
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #. https://familysearch.org/search/collection/results?count=75&query=%2Bsurname%3Abehrman~%20%2Bbirth_year%3A1829-1831%20%2Bother_year%3A1850-1860%20&collection_id=1849782
 
@@ -140,6 +158,7 @@ Results of above searches on Familysearch using www.stevemorse.net
    Search on children\ |apos|\ s names and look for overlapping matches.
 
 Books:
+~~~~~~
 
 #. **Germans to America: Lists of Passengers Arriving at US Ports 1850-1897.** Edited by Ira A. Glazier and P. William Filby
 #. **German Immigrants: Lists of Passengers Bound from Bremen to New York with Places of Origin**; compiled by Gary J. Zimmerman and Marion Wolfert; (Baltimore: Genealogical Publishing Co. 1985-1992.) 
@@ -206,6 +225,20 @@ Grace Evangelical Lutheran Church, 2940 S. Anthony Blvd., Fort Wayne, IN (ELCA) 
 #. Miscellaneous records, pictures. 977.202 F77gel, oversized
 #. Earlier  parish  register,  1858-1907,  from  St.  John's,  Marion Twp.,  977.202 F77gela, oversized
 
+German Resources
+++++++++++++++++
+
+Umbrella Organization of German Geneaology Organizations
+--------------------------------------------------------
+
+http://dagv.org
+
+German Parish Registers
+-----------------------
+
+Map Guide to German Parrish Registers, multiple volumes, published by Family Roots Publishing.
+
+
 Books on German Genealogical Research
 -------------------------------------
 
@@ -228,6 +261,11 @@ Lippe Auswanderung
 
 #. `Lippe Auswanderung <http://www.lippe-auswanderer.de/>`_.
 
+Baden-Württemberg, German Geneaology – where Vollmers Originated
+----------------------------------------------------------------
+
+https://www.familysearch.org/wiki/en/Baden-W%C3%BCrttemberg,_Germany_Genealogy 
+
 Videos
 ------
 
@@ -237,10 +275,6 @@ Special Comments
 ----------------
 
 The userid I used on `db.genalogy.net <https://db.genealogy.net>`_, I think, is **Kurt.krueckeberg** with capital K and password is the complex password.
-
-German Resources
-++++++++++++++++
-
 Schaumburg-Lippe
 ----------------
 
