@@ -15,6 +15,7 @@ Contents:
    places-other-issues.rst
    methodology.rst
    resources.rst
+   german-church-records.rst
 
 Indices and tables
 ==================
