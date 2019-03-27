@@ -23,4 +23,15 @@ Important Points on German Church Records
 
 Church records were written chronological order in the book, so January births (marriages, and deaths) will come first and December will come last.
 
-As we know, the "in" word ending means "female", but scribes would add the "in" to the end of surnames to indicate the individual was female.
+As we know, the "in" word ending means "female", but some scribes of church records added the "in" to the end of surnames to indicate the individual was female.
+
+The scribes sometimes used "creative" spelling: how they thought the name should be spelled. In particular, the sound of these letters, even today, are often
+confused:
+
+* G/K
+* B/P
+* V/F
+* D/T
+
+Finally, abbreviation are very common in German church records
+STOPPED at minute 14:30
