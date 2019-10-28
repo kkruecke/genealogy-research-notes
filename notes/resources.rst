@@ -69,7 +69,7 @@ Allen County Land Records
 * Using the `Allen County GIS webstie <https://www.youtube.com/watch?v=Mm4acnEoW1A&feature=youtu.be>`_
 * `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
 * `Family maps of Allen County, Indiana : with homesteads, roads, waterways, towns, cemeteries, railroads, and more <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocn156878566 ">`_ by  Boyd, Gregory A. (Gregory Alan), in Genealogy Center.
-*  `977.201 AL5DAU < http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm02354264 ">`_ in the Genealogy Center is the Allen Co. (IN) Deed Index. It is arranged alphabetically by grantors. Thus it is not helpful for finding Grantees, and it is best to rely on an online search of the Recorder's Office deeds. But the Genealogy Center does haves the Allen Co.
+*  `977.201 AL5DAU <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocm02354264 ">`_ in the Genealogy Center is the Allen Co. (IN) Deed Index. It is arranged alphabetically by grantors. Thus it is not helpful for finding Grantees, and it is best to rely on an online search of the Recorder's Office deeds. But the Genealogy Center does haves the Allen Co.
    IN Deed Books on Microfilm: http://genealogycenter.info/detail_mttype.php?mtid=4721&searchstate=Indiana&searchco=
 
     ================================ =============
