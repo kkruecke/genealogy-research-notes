@@ -20,8 +20,8 @@ Adams County
 
 * `The 1979 history of Adams County, Indiana by Heller, Dick D., others <https://www.amazon.com/1979-History-Adams-County-Indiana/dp/B001JYIYWM>`_
 * `A Short, Short story of Adams county, Indiana by Quinn, French <https://books.google.com/books/about/A_Short_Short_Story_of_Adams_County_Indi.html?id=lAxwAAAAMAAJ>`_, 142 pages
-* A pictorial history of Adams county, Indiana by Walters, Helen M.
-* Snow's history of Adams County, Indiana by Snow, J. F. (John Fletcher), 1854-1933, which I have downloaded to my PC.
+* `A Pictorial History of Adams county, Indiana by Walters, Helen M. <https://www.worldcat.org/title/short-short-story-of-adams-county-indiana/oclc/23106343>`_
+* `Snow's history of Adams County, Indiana by Snow, J. F. (John Fletcher), 1854-1933 <https://www.worldcat.org/title/snows-history-of-adams-county-indiana/oclc/865850376&referer=brief_results>`_. I have downloaded to my PC a copy from archive.org.
 
 Pathfinders Tab at Geneaologycenter.org
 ---------------------------------------
