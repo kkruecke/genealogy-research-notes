@@ -23,13 +23,15 @@ Adams County
 * A pictorial history of Adams county, Indiana by Walters, Helen M.
 * Snow's history of Adams County, Indiana by Snow, J. F. (John Fletcher), 1854-1933.
 
-Pathfinders Tab at geneaologycenter.org
+Pathfinders Tab at Geneaologycenter.org
 ---------------------------------------
 
-Has links to Allen County Resources and tons of helpful links to get you started.
+The `Genealogy Center <http://www.genealogycenter.org/Pathfinders/AllenINGuides.aspx>`_ Pathfinders tab for Allen County has a choose for `Allen County Links <http://www.genealogycenter.org/Pathfinders/AllenINGuides/AllenCountyLinks.aspx>`_.
 
 Undestanding Land Records and Deeds
 -----------------------------------
+
+Sites for understanding Deeds and Land Records:
 
 * `U.S. Land Records Class <https://www.familysearch.org/wiki/en/U.S._Land_Records_Class_Handout>`_\ |mdash|\ Familysearch wiki page with various topics on the gamet of land records.
 * `Land Record Reference <http://www.directlinesoftware.com/land_record_reference>`_\ |mdash|\ under **Land Transaction Records. How they work and where they are** lists instructional articles on  Tracing Ancestors using Deed Records, Types of Deed Books, How to Get
@@ -38,8 +40,8 @@ Undestanding Land Records and Deeds
 * `Defining the Indiana Landscape through the Rectangular Survey System <https://blog.history.in.gov/?tag=townships>`_
 
 
-Using BLM Navigator
--------------------
+Using the Bureau of Land Management's Navigator
+-----------------------------------------------
 
 After going to `BLM Naviagtor <https://navigator.blm.gov/map>`_, then do -> Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to Map. Also select **Get Lat/Long from Land Description**. Next, choose State of Indina, 2nd Meridian, the Township number, Range number, and
 section number. Then click 'Find Land Description from Location', and it will take you to that section, township and range.
