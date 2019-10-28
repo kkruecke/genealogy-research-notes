@@ -64,7 +64,7 @@ Allen County Land Records
 * `INDIANA COUNTY RECORDERS PORTAL - Land & Indexed Records <https://indiana-countyrecorders-records.com>`_ has Allen County Deed index books searchable by suranme. You can sign in as Guest. The three columns for Section, Township, and Range, located far right side of
   the right-hand page. I believe, if you know from, say, a Platt map, the Section and range, you can use these three columns for browsing through the index more quickly than simply reading through the entire Index for that first letter of the suranme.
 * 1860 Plat maps of Allen County Township online `here <https://www.acgsi.org/maps/1860plat.php>`_ at ACGSI website.
-* Using the `Allen County GIS webstie <https://youtu.be/Mm4acnEoW1A>`_
+* Using the `Allen County GIS webstie <https://www.youtube.com/watch?v=Mm4acnEoW1A&feature=youtu.be>`_
 * `Townships of Allen County <https://www.acgsi.org/maps/township.php>`_  "These designations (of Allen County Townships) often appear in land records and are stated in relation to the Second Principal Meridian."
 * `Family maps of Allen County, Indiana : with homesteads, roads, waterways, towns, cemeteries, railroads, and more <http://alpl.ent.sirsi.net/client/default/search/results?te=ILS&qu=" ocn156878566 ">`_ by  Boyd, Gregory A. (Gregory Alan), in Genealogy Center.
 
@@ -101,6 +101,8 @@ The U.S. Geological Survey websit's article `The Public Land Survey System (PLSS
     Each township is identified with a township and range designation. Township designations indicate the location north or south of the baseline, and range designations indicate the location east or west of the Principal Meridian. For example, a township might
     be identified as Township 7 North, Range 2 West, which would mean that it was in the 7th tier of townships north of a baseline, and in the 2nd column of townships west of a principal meridian.  A legal land description of a section includes the State, Principal
     Meridian name, Township and Range designations with directions, and the section number: Nebraska, Sixth Principal Meridian T7N, R2W, sec5. 
+
+The Genealogy Center has Allen Co. IN, Deed Index in three volumes done by DAR, and it has the Allen Co. IN Deed Books on Microfilm. See: http://genealogycenter.info/detail_mttype.php?mtid=4721&searchstate=Indiana&searchco=
 
 Adams County Land Records
 -------------------------
