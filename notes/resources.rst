@@ -43,10 +43,16 @@ Sites for understanding Deeds and Land Records:
 Using the Bureau of Land Management's Navigator
 -----------------------------------------------
 
-After going to `BLM Naviagtor <https://navigator.blm.gov/map>`_, then do -> Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to Map. Also select **Get Lat/Long from Land Description**. Next, choose State of Indina, 2nd Meridian, the Township number, Range number, and
-section number. Then click 'Find Land Description from Location', and it will take you to that section, township and range.
+At `BLM Naviagtor <https://navigator.blm.gov/map>`_, do:
 
-.. note:: I am not sure how to Aliquot box should be filled in.
+1. Toolbox -> PLSS Tools -> Add 'PLSS CadNSDI Layer' to map.
+2. Also select **Get Lat/Long from Land Description**. 
+3. Choose State of Indina, 2nd Meridian, the Township number, Range number, and section number.
+4. Click on 'Find Land Description from Location'
+
+It will take you to that section, township and range.
+
+.. note:: I am not sure how Aliquot box should be filled in.
 
 BLM `Land Catalog <https://glorecords.blm.gov/LandCatalog/Catalog>`_ allows you to choose State, Township and Range, and it will display it and all numbered sections of the townships.
 
